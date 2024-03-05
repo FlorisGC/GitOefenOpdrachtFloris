@@ -21,7 +21,7 @@
             <h1>Git Oefenopdracht</h1><br>
 
             <h2>
-                Actuele datum en tijd
+                3-5-2024 11:22
             </h2><br>
 
             <p>
