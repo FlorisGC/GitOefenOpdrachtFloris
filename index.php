@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -10,24 +11,26 @@
     <meta name="viewport" content="width=\, initial-scale=1.0">
     <title>Git Oefen Opdracht</title>
 </head>
+
 <body>
-<div class="container">
+    <div class="container">
 
 
-    
-    <div class="jumbotron">
-    <h1>Git Oefenopdracht</h1><br>
-   
-    <h2>
-        Actuele datum en tijd
-    </h2><br>
 
-    <p>
-        Je naam
-    </p>
+        <div class="jumbotron">
+            <h1>Git Oefenopdracht</h1><br>
 
+            <h2>
+                Actuele datum en tijd
+            </h2><br>
+
+            <p>
+                Je naam
+            </p>
+
+        </div>
+        <img src="img/gitd.1.jpg" class="img-rounded" alt="Git Deployment">
     </div>
-    <img src="img/gitd.1.jpg" class="img-rounded" alt="Git Deployment">
-</div>
 </body>
+
 </html>
