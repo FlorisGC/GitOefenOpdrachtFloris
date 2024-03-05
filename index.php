@@ -29,7 +29,7 @@
             </p>
 
         </div>
-        <img src="img/gitd.1.jpg" class="img-rounded" alt="Git Deployment">
+        <img src="img/AmogusUil1Bij1.png" class="img-rounded" alt="Git Deployment">
     </div>
 </body>
 
