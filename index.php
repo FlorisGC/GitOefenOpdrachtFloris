@@ -25,7 +25,7 @@
             </h2><br>
 
             <p>
-                Je naam
+                Floris Halleriet
             </p>
 
         </div>
